@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sebastião Rogerio, I'm a PhD student in Computer Engineering, Data Scientist, Professor and Member of dotLAB Brazil.
+My name is Sebastião Rogerio, I'm a PhD in Computer Engineering, Data Scientist, Professor and Member of dotLAB Brazil.
 
 🔭 I’m currently working on developing machine learning models for classification. In addition, I have studied data engineering and MLOps.
 
