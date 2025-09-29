@@ -1,53 +1,99 @@
 ### Hi there 👋
-My name is Sebastião Rogerio, I'm a PhD in Computer Engineering, Data Scientist, Professor and Member of dotLAB Brazil.
 
-🔭 I’m currently working on developing machine learning models for classification. In addition, I have studied data engineering and MLOps.
+# 👨‍💻 My name is Sebastião Rogério da Silva Neto
 
-<div align="center">
-  <a href="https://github.com/sebastrogers">
-  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=sebastrogers&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastrogers&layout=compact&langs_count=7&theme=dark"/>
-</div>
+**Ph.D. in Computer Engineering | Data Scientist & AI Researcher | Professor & Academic Coordinator | Instructional Designer | Wyden Ambassador | Erasmus+ Fellow**
 
-## 👩‍💻 Skills
+📍 Caruaru, Pernambuco, Brazil  
+✉️ [Email](mailto:sebast.rogers@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-rog%C3%A9rio-ph-d-aa528533/) | 💻 [GitHub](https://github.com/sebastrogers) | 📚 [Lattes CV](http://lattes.cnpq.br/5589837708731892)
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" target="_blank">
- </div>
+---
 
-## 🚀 Frameworks/Dev tools 💻
-<div>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank">
-</div>
+## 🔹 Professional Summary
+Professor, researcher, and academic coordinator with solid experience in **Programming, Algorithms, Data Science, and Machine Learning** applied to healthcare. Skilled in **AI, MLOps (AWS, MLflow), Explainable AI (XAI)**, and educational innovation. Recognized for leading extension projects, mentoring students, and building international academic bridges through programs like **Erasmus+** and the **Wyden Masterclasses**.
 
-## 📱 Contact/Social Media 🌐
+---
 
-<div> 
-  <a href="https://instagram.com/sebastroger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sebast.rogers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sebastião-rogério-msc-aa528533/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 🎓 Education
+- **Ph.D. in Computer Engineering** – Universidade de Pernambuco (2020–2024)  
+  - Research in AI and Data Science applied to healthcare (VALERIA, CHIKA, Hansen.ai).  
+  - Erasmus+ Fellow at **Dublin City University (Ireland, 2024)**.  
+- **M.Sc. in Computer Science** – Universidade Federal de Alagoas (2015–2017)  
+  - Dissertation: Sentiment analysis for prejudice detection in text.  
+- **Postgraduate Specialization in Business Intelligence, Big Data & Analytics** – UNOPAR (2021–2022)  
+- **Bachelor of Education in Computer Science (Licenciatura)** – Universidade de Pernambuco (2011–2014)  
 
-<!--
+---
 
+## 💼 Professional Experience
 
-# 💻 Experience 👔
-- **2022 - currently -> Mekatronik** <br> Data Scientist <br> Educational Data Mining <br> Development of predictive models for school dropout <br> 
-- **2020 - currently -> DotLAB Brazil** <br> Researcher <br> Development of machine learning models for classification of arboviruses
-- **2019 - 2020 -> COMEIA Labs** <br> PHP Programmer <br> Development of web systems using the yii2 framework
+### **Academic Coordinator** – UniFavip Wyden (2023–Present)
+- Lead IT undergraduate programs (Computer Science, Systems Analysis & Development).  
+- Manage curriculum design, faculty coordination, and MEC regulatory processes.  
+- Coordinate the **Digital Transformation Lab (LTD)**, integrating academia, industry, and social impact projects.  
 
-# 📚 Academic education 📖
-- **2016 - 2019 -> University of Pernambuco** <br> Bachelor in Information Systems
-- **2020 - 2022 -> University of Pernambuco** <br> Master in Computer Engineering <br> Usase of Machine Learning model for multi-class classification of arbovirus using only clinical data
--->
+### **Lecturer** – UniFavip Wyden (2022–Present)
+- Teach **Programming Fundamentals, Algorithms & Data Structures, Python, Java, Cloud Computing, Databases**.  
+- Apply active learning (PBL, flipped classroom, gamification).  
+- Supervise research (PIBIC) and extension projects (FACEPE).  
+
+### **Ambassador** – Wyden Masterclasses (2025–Present)
+- First Wyden Academic Ambassador.  
+- Organized and mediated masterclasses with professors from **Fordham University, Osgoode Hall Law School, University of North Texas**, among others.  
+
+### **Researcher** – dotLAB Brazil (UPE) (2020–Present)
+- **VALERIA**: AI system for arbovirus differential diagnosis with ML/MLOps AWS.  
+- **CHIKA**: predictive modeling for chronic progression in Chikungunya.  
+- **Hansen.ai**: Explainable AI solution for leprosy diagnosis.  
+- Co-supervised Master’s students, published in international journals and conferences.  
+
+### **Adjunct IT Curator** – EnsineMe (2025–Present)  
+### **Educational Quality Analyst** – EnsineMe (2024–2025)  
+- Content curation and pedagogical validation for IT programs (technical, undergraduate, MBA).  
+
+### **Educational Designer** – Joy Education + Proz Educação (2022)  
+- Design and validation of digital educational resources in IT.  
+
+### **Lecturer (Technical Programs)**  
+- **ETE Gov. Eduardo Campos (2018–2022)** – Networks, Databases, Programming.  
+- **ETE Antônio Dourado Cavalcanti (2015–2016)** – Programming, OOP, Algorithms.  
+
+---
+
+## 📊 Research Focus
+- **Machine Learning & Deep Learning** applied to healthcare.  
+- **MLOps pipelines** (AWS, MLflow, serverless architectures).  
+- **Explainable AI (XAI)** for medical decision-making.  
+- **NLP & Hate Speech detection** in social media (Erasmus+ DCU).  
+
+---
+
+## 📄 Selected Publications
+- *Predicting Chronic Phase Progression in Chikungunya Patients Using Machine Learning Models* – SBSI 2025.  
+- *Integrating ML and spatial clustering for malaria case prediction in Brazil* – BMC Infectious Diseases, 2025.  
+- *Binary Models for Arboviruses Classification* – HICSS, 2023.  
+- *Machine learning techniques to support clinical diagnosis of arboviral diseases* – PLOS Neglected Tropical Diseases, 2022.  
+- [More on Lattes CV](http://lattes.cnpq.br/5589837708731892)  
+
+---
+
+## 🏆 Awards
+- **Best Paper Award – CONICAT 2025**  
+- **2nd Place – SBSI 2024 (Information Systems Track)**  
+- **Honorable Mention – UniFavip Wyden 2024**  
+- **Academic Star – Wyden 2023**  
+- **Highlight Coordinator – Wyden 2023**  
+
+---
+
+## ⚙️ Skills
+- **Languages & Tools:** Python, Java, R, SQL, Spark, Power BI.  
+- **ML/AI:** Scikit-learn, TensorFlow, PyTorch.  
+- **MLOps & Cloud:** AWS (EC2, Lambda, API Gateway, CloudWatch), MLflow, Docker.  
+- **Databases:** MySQL, PostgreSQL, NoSQL (MongoDB).  
+- **Education:** Instructional Design, Active Learning, Curriculum Development.  
+
+---
 
 <!--
 - 🔭 I’m currently working on ...
